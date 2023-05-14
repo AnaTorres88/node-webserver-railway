@@ -15,7 +15,7 @@
     "hbs": "^4.2.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.16"
+    "nodemon": "^2.0.22"
   },
   "author": "",
   "license": "ISC"
